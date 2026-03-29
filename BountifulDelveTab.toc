@@ -1,0 +1,14 @@
+## Interface: 120000
+## Title: Bountiful Delve Tab
+## Notes: Adds a Bountiful Delves tab to the World Map. Shows all Midnight delves with bountiful status.
+## Author: Sinorita@Tichondrius-US
+## Version: 1.0.0
+## Dependencies: LibWorldMapTabs
+##
+## Credits:
+##   LanceDH - LibWorldMapTabs and TextureAtlasViewer
+##   Kemayo - DelverView
+##   Thunderz96 - DelveGuide
+##   WorldQuestTab team - panel styling reference
+
+BountifulDelveTab.lua
